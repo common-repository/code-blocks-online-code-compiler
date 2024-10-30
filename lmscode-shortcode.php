@@ -1,0 +1,4 @@
+<?php
+// silence is beauty
+
+?>
